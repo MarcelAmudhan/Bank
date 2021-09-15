@@ -2,16 +2,16 @@ package org.bank;
 
 public class Axis extends BankData {
 	private void accountNo() {
-
+		
 System.out.println("23456567788");
 	}
-	private void acHolderName() {
-
-		System.out.println("Ajith Prasanna");
+	private void holderName() {
+		
+System.out.println("Sumathi");
 	}
 private void ifsc() {
 	
-System.out.println("0122");
+System.out.println("2222");
 }
 public static void main(String[] args) {
 	Axis a=new Axis();
